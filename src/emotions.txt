@@ -1,0 +1,17 @@
+sad
+angry
+blowing_rasberry
+breathing_exercise
+calming_down
+confused
+cry
+disgusted
+happy
+happy_blinking
+kiss
+one_eye_wink
+sad
+scream
+shy
+surprise
+yawn
